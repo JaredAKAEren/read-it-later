@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Layout</h1>
+    <h1 class="text-lg">Layout</h1>
     <main>
       <RouterView />
     </main>
